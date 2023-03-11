@@ -1,0 +1,2 @@
+# Calculadora CLI
+Este é um pequeno projeto de estudo da lib [Typer](https://typer.tiangolo.com/). Foi implementado as funcionalidades básicas deste projeto: [Calculadora CLI](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Calculator-CLI.md)
